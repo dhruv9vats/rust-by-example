@@ -45,7 +45,7 @@ impl Circle {
     }
 }
 
-pub fn structs_main() {
+pub fn do_something_with_structs() {
     // Create struct with field init shorthand
     let name = String::from("Peter");
     let age = 27;
